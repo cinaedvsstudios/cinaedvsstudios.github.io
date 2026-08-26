@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://cinaedvsstudios.github.io/Backroom-site/sitemap.xml
+Sitemap: https://cinaedvsstudios.github.io/cinaedvs/sitemap.xml
